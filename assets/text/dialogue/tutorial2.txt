@@ -1,0 +1,7 @@
+John: "So you wanna know about that lever huh? Well it's broken. But! I have the lever handle here!
+	Some NPCs will have items to give you, just like the lever that I just gave you.
+	Go on and try using it, who knows, it may get fixed."
+
+ITEM
+
+NEXT 4

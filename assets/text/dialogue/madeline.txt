@@ -1,0 +1,8 @@
+You: "Hello?"
+
+No response, but the weeping continues.
+
+1. Ask who they are
+2. Ask if they are okay
+
+OPTION

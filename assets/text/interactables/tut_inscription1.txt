@@ -1,0 +1,4 @@
+The inscription reads:
+	As you can see this door is locked.
+	To unlock such a door like this you might think it needs a key.
+	But no key will open this door, only a lever might open a way.

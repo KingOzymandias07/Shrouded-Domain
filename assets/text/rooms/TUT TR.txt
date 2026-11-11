@@ -1,0 +1,1 @@
+There is an NPC in this room. NPCs can be interacted with by using the 'talk' command followed by the name of the NPC. Some NPC names will not be known to you, so at that point just enter a descriptor. Ex: 'talk man' or 'talk girl'

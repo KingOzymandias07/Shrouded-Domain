@@ -1,0 +1,8 @@
+John: "Hey! Nice one friend. Alrighty, now some NPC's will have multiple dialogue options for you to choose.
+	So go one and try one!"
+
+2. Ask about broken lever.
+
+3. Ask how to complete tutorial.
+
+OPTION

@@ -1,0 +1,7 @@
+John: "How to get out of here? Well, I found this lever handle, and there appears to be
+	a lever base here. Maybe if I give you this, you can go and fix the lever.
+	Some NPCs will have items to give you, just like this lever handle."
+
+ITEM
+
+NEXT 4

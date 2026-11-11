@@ -1,0 +1,6 @@
+???: Hey friend! My name is John, and I will be a guide to you during this tutorial.
+	For starters try talking to me again, this time using my name, John!"
+
+NAME
+
+NEXT 1

@@ -1,0 +1,3 @@
+In this room there is a lever. This is one of many puzzles you will encounter. To pull the lever use the 'examine' function followed by what you are examining.
+NOTE:
+	Using the 'use' function here will use the lever, the 'use' function can, well, use items in your inventory, or it can use interactable objects in the room. If you want to check your inventory, simply enter the command 'inventory'

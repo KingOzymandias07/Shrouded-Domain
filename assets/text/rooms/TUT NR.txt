@@ -1,0 +1,1 @@
+In this game, there will be ways that are blocked, requiring you to find a way to progress. This may come in the form of keys, solving puzzles, or just progressing through the game. For instance this room has a locked door in it. You will need to find a key before using it. To use said key when you find it enter 'use' followed by the item.

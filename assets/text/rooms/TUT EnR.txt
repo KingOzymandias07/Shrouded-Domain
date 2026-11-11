@@ -1,0 +1,1 @@
+Welcome to the tutorial! To move to a different room. Use the function 'go' plus a direction that you want to go in. (directions will appear in available paths)
